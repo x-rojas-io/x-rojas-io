@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🧠 I'm a Software Engineer<br>🔭 I’m currently working on Machine Learning<br>👯 I’m looking to collaborate on MLOps Projects<br>🤝 I’m looking for help with remote open roles<br>🌱 I’m currently learning Deep Learning<br>💬 Ask me about<br>⚡ Fun fact
+🧠 I'm a Software/Data Engineer<br>🔭 I’m currently working on Machine Learning<br>👯 I’m looking to collaborate on MLOps Projects<br>🤝 I’m looking for help with remote open roles<br>🌱 I’m currently learning Deep Learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
