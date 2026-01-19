@@ -1,8 +1,13 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🧠 I'm a Software/Data Engineer<br>🔭 I’m currently working on Machine Learning<br>👯 I’m looking to collaborate on MLOps Projects<br>🤝 I’m looking for help with remote open roles<br>🌱 I’m currently learning Deep Learning<br>💬 Ask me about<br>⚡ Fun fact
-
+🧠 I'm a **Senior Software Engineer (Data Platform)**<br>
+🔭 I’m currently building **Scalable Data Infrastructure** & **Internal Developer Tools**<br>
+👯 I’m looking to collaborate on **Data Observability** & **Orchestration Frameworks**<br>
+🤝 I’m looking for **Senior Data Platform** roles (Remote)<br>
+🌱 I’m currently exploring **Advanced dbt patterns** & **Platform Engineering**<br>
+💬 Ask me about **Python, Airflow, Data Quality, & Developer Experience (DX)**<br>
+⚡ Fun fact **I once resolved 7M+ duplicate identities in a national pension database**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/x.rojas.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/x-rojas-io) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@x.rojas.io) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@x-rojas-io) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nestor.rojas@live.com) 
